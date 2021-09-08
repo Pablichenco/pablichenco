@@ -4,13 +4,11 @@
 - 🌱 I’m currently learning ...Data Analysis
 - 👯 I’m looking to collaborate on ...more open source science
 - 💬 Ask me about ...QFT
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I love hiking and digital art
 
 ### Hi there, I'm [Pablo][website] 👋
 
-[![Website](https://img.shields.io/website?label=Pablo.com&style=for-the-badge&url=https%3A%2F%2F)](https://pablichenco.github.io)
+[![Website](https://img.shields.io/website?label=Pablo.com&style=for-the-badge&url=https%3A%2F%2Fpablichenco.github.io)](https://pablichenco.github.io)
 
 ### Connect with me:
 
